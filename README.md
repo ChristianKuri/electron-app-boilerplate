@@ -1,13 +1,11 @@
-# Vite+Vue3+Electron+Typescript template
-
-![screenshot](./src/assets/screenshot.png)
+# Vite + Vue 3 + Electron + TypeScript + Tailwind + Pinia + Router template
 
 ## Get Started
 
 ### 1. clone this repository
 
 ```bash
-git clone https://github.com/Yukun-Guo/vite-vue3-electron-ts-template.git
+git clone https://github.com/ChristianKuri/electron-app-boilerplate
 ```
 
 ### 2. install packages
